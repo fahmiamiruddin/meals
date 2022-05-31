@@ -1,0 +1,11 @@
+.nav-wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid black;
+    padding: 2px;
+}
+
+nav a {
+    margin: 10px;
+}
